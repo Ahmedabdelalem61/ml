@@ -1,2 +1,2 @@
 # ml
-**my oun learning journey  through machine learning**
+**my own learning journey  through machine learning**
